@@ -8,24 +8,30 @@ notes and material related to this course in this repo for my use of understandi
 
 ### Syllabus
 
-| Advanced dynamic programming |
-| ---- | 
+| Advanced dynamic programming | Notes|
+| ---- | ---- | 
+| 1 | Lecture | 
 
-| Randomized algorithms 
-| ---- | 
+| Randomized algorithms |  Notes|
+| ---- | ---- | 
+| 2 | Lecture |
 
-| Hashing, filtering, and streaming algorithms 
-| ---- | 
+| Hashing, filtering, and streaming algorithms |  Notes | 
+| ---- | ---- | 
+| 3 | Lecture | 
 
+| Maximum flows and minimum cuts |  Notes | 
+| ---- | ---- |
+| 4 | Lecture |
 
-| Maximum flows and minimum cuts |
-| ---- | 
+| Linear programming |  Notes|
+| ---- | ---- |  
+| 5 | Lecture |
 
-| Linear programming
-| ---- | 
+ NP-hardness and related lower bounds |  Notes|
+| ---- | ---- | 
+| 6 | Lecture |
 
- NP-hardness and related lower bounds
-| ---- | 
-
- Approximation algorithms
-| ---- |
+ Approximation algorithms |  Notes|
+| ---- | ---- | 
+| 7 | Lecture |
