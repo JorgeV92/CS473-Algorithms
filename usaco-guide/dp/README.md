@@ -1,1 +1,1 @@
-# Dynamim Programming
+# Dynamic Programming
