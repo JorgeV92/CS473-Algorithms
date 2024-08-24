@@ -8,6 +8,14 @@ notes and material related to this course in this repo for my use of understandi
 
 ### Syllabus
 
+| Recursion | Notes|
+| ---- | ---- | 
+| 1 | Lecture | 
+
+| Fast Fourier transforms | Notes|
+| ---- | ---- | 
+| 1 | Lecture | 
+
 | Advanced dynamic programming | Notes|
 | ---- | ---- | 
 | 1 | Lecture | 
