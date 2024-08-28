@@ -10,7 +10,11 @@ notes and material related to this course in this repo for my use of understandi
 
 | Recursion | Notes|
 | ---- | ---- | 
-| 1 | Lecture | 
+| Induction | 
+Solving recurrences
+Divide and conquer
+Whatever-first search | Lecture 1
+Depth-first search and topological sorting | [Lecture 1](/Recursion/README.md) | 
 
 | Fast Fourier transforms | Notes|
 | ---- | ---- | 
